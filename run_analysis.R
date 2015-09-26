@@ -1,5 +1,6 @@
 # R script for Peer Assessments -  Getting and Cleaning Data Course Project
 
+library(plyr)
 # Download File 
 fileUrl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "
 filename <- "getdata.zip"
